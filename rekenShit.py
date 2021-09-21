@@ -1,0 +1,5 @@
+print("vul nummer 1 en 2 in: ")
+x = input()
+y = input()
+sum = int(x) + int(y)
+print(sum)
