@@ -1,0 +1,7 @@
+print("dit is een gedicht \n")
+print("Hallo, ik ben tijmen en ik kan heel goed rijmen.")
+print("Heel goed is ook een groot wordt, ik moet niet overdrijven")
+print("Voor de opdracht moest ik een gedicht schrijven")
+print("Over je intresses hobbys en meer")
+print("dus ik maak zinnen hierover, keer op keer")
+print("klaar met deze rijm, ik ben tijmen en ik ben niet skeer :)")
